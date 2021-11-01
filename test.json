@@ -2,5 +2,5 @@
   "test" : [{"name":"pazko"},
             {"age":1001},
             {"weight":75},
-            {"gender":"male"}],
+            {"gender":"male"}]
 }
